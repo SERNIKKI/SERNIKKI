@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Remilia](https://www.sernikki.cn/).
+### Hi there 👋 I'm [Remilia](https://www.sernikki.cn).
 
 一个不那么有趣的灵魂，欢迎有趣的灵魂异想天开。
 
@@ -38,4 +38,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SERNIKKI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Blog
-✨欢迎来我的博客转转并留下你的足迹
+✨欢迎来我的[博客](https://blog.sernikki.cn)转转并留下你的足迹
